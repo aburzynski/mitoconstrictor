@@ -13,7 +13,7 @@ arwen </br>
 glimmer3 </br>
 critica </br>
 vmatch </br>
-blast </br>
+blast+ </br>
 Databases:</br>
 custom database of mitochondrial genome, blast-formatted</br>
 hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
