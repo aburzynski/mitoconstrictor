@@ -6,7 +6,7 @@ Prerequisites:</br>
 -python (currently version 2.7 is supported)</br>
 -Biopython
 (and several other python libraries easily installed with pip)</br>
--wise2 </br>
+-wise2 https://www.ebi.ac.uk/~birney/wise2/</br>
 -tmhmm </br>
 -infernal </br>
 -arwen </br>
