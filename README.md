@@ -1,7 +1,7 @@
 # mitoconstrictor
 
 Set of python scripts for mtDNA annotation. Run as:</br>
-python gff2gb.py fasta_file</br>
+*python gff2gb.py fasta_file</br>
 Prerequisites:</br>
 -python (currently version 2.7 is supported)</br>
 -Biopython
