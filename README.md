@@ -7,7 +7,7 @@ Prerequisites:</br>
 -Biopython
 (and several other python libraries easily installed with pip)</br>
 -wise2 https://www.ebi.ac.uk/~birney/wise2/</br>
--tmhmm </br>
+-tmhmm https://services.healthtech.dtu.dk/software.php</br>
 -infernal </br>
 -arwen </br>
 -glimmer3 (icm profile for glimmer included)</br>
