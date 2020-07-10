@@ -9,7 +9,7 @@ Prerequisites:</br>
 -wise2 https://www.ebi.ac.uk/~birney/wise2/</br>
 -tmhmm https://services.healthtech.dtu.dk/software.php</br>
 -infernal http://eddylab.org/infernal/</br>
--arwen </br>
+-arwen http://130.235.244.92/ARWEN/arwen1.2.3.c</br>
 -glimmer3 (icm profile for glimmer included)</br>
 -critica </br>
 -vmatch </br>
