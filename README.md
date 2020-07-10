@@ -15,7 +15,7 @@ Prerequisites:</br>
 -vmatch </br>
 -blast+ </br>
 -Databases:</br>
-+database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, example files included, can be customized at will)</br>
++database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, included, can be customized at will)</br>
 +individual blast-formatted sub-databases of major clades (for critica, examples included)</br>
 +hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 +cm profiles of rRNAs and tRNAs (included, these can be customized with locarna)</br>
