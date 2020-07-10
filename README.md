@@ -10,7 +10,7 @@ Prerequisites:</br>
 -tmhmm https://services.healthtech.dtu.dk/software.php</br>
 -infernal http://eddylab.org/infernal/</br>
 -arwen http://130.235.244.92/ARWEN/arwen1.2.3.c</br>
--glimmer3 http://ccb.jhu.edu/software/glimmer/index.shtml (needed icm profile for glimmer is provided)</br>
+-glimmer3 http://ccb.jhu.edu/software/glimmer/index.shtml (needed icm profile for glimmer, included)</br>
 -critica http://www.life.illinois.edu/gary/programs/CRITICA/critica105b.tar.gz (need modified perl files for modern BLAST, included)</br>
 -vmatch http://www.vmatch.de/</br>
 -blast+ https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/</br>
