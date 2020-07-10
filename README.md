@@ -14,6 +14,7 @@ Prerequisites:</br>
 -critica </br>
 -vmatch </br>
 -blast+ </br>
+-EMBOSS (getorf)</br>
 -Databases:</br>
 +database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, included, can be customized at will)</br>
 +individual blast-formatted sub-databases of major clades (for critica, examples included)</br>
