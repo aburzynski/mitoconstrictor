@@ -15,7 +15,7 @@ critica </br>
 vmatch </br>
 blast+ </br>
 Databases:</br>
-database of mitochondrial genomes, blast-formatted (for mgcode and profile customization) as well as individual sub-databases for each major clade (for critica)</br>
+database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, example files included, can be customized at will) as well as individual sub-databases for each major clade (for critica)</br>
 hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 cm profiles of rRNAs and tRNAs (included, these can be customized with locarna)</br>
 pfam database (part A, hmm file pressed with hmmer, non-essential) </br>
