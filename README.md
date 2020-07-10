@@ -10,12 +10,12 @@ wise2 </br>
 tmhmm </br>
 infernal </br>
 arwen </br>
-glimmer3 </br>
+glimmer3 (icm profile for glimmer included)</br>
 critica </br>
 vmatch </br>
 blast+ </br>
 Databases:</br>
-database of mitochondrial genomes, blast-formatted as well as individual sub-databases for each major clade (for mgcode identification)</br>
+database of mitochondrial genomes, blast-formatted as well as individual sub-databases for each major clade (for critica)</br>
 hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 cm profiles of rRNAs and tRNAs (included, these can be customized with locarna)</br>
 pfam database (non-essential) </br>
