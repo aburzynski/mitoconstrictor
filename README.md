@@ -10,7 +10,7 @@ Prerequisites:</br>
 -tmhmm https://services.healthtech.dtu.dk/software.php</br>
 -infernal http://eddylab.org/infernal/</br>
 -arwen http://130.235.244.92/ARWEN/arwen1.2.3.c</br>
--glimmer3 (icm profile for glimmer included)</br>
+-glimmer3 http://ccb.jhu.edu/software/glimmer/index.shtml (needed icm profile for glimmer is provided)</br>
 -critica </br>
 -vmatch </br>
 -blast+ </br>
