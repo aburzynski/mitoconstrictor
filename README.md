@@ -24,5 +24,5 @@ Produces annotated GenBank file as well as several pdf and text files describing
 </br>
 Several dependencies run on linux only but Win10 linux subsystem is also adequate. Everything is commandline-only.</br>
 
-Publication with examples of usage is freely available at:</br>
+Publication with some examples of usage is freely available at:</br>
 https://www.nature.com/articles/s41598-020-67976-6
