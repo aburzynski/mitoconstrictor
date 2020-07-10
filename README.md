@@ -19,6 +19,6 @@ database of mitochondrial genomes, blast-formatted, with corresponding lineage s
 hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 cm profiles of rRNAs and tRNAs (included, these can be customized with locarna)</br>
 pfam database (part A, hmm file pressed with hmmer, non-essential) </br>
-Produces annotated GenBank file as well as several pdf and text files describing the features of the mitogenome.
-
-Several dependencies run on linux only.
+Produces annotated GenBank file as well as several pdf and text files describing the features of the mitogenome.</br>
+</br>
+Several dependencies run on linux only but Win10 linux subsystem is also adequate. Everything is commandline-only.
