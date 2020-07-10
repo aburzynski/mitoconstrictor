@@ -13,7 +13,7 @@ Prerequisites:</br>
 -glimmer3 http://ccb.jhu.edu/software/glimmer/index.shtml (needed icm profile for glimmer is provided)</br>
 -critica http://www.life.illinois.edu/gary/programs/CRITICA/critica105b.tar.gz</br>
 -vmatch http://www.vmatch.de/</br>
--blast+ </br>
+-blast+ https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/</br>
 -EMBOSS (getorf)</br>
 -Databases:</br>
 +database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, included, can be customized at will)</br>
