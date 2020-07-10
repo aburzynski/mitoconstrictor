@@ -4,7 +4,7 @@ Set of python scripts for mtDNA annotation. Run as:</br>
 python gff2gb.py fasta_file</br>
 Prerequisites:</br>
 -python (currently version 2.7 is supported)</br>
--Biopython
+-Biopython https://biopython.org/
 (and several other python libraries easily installed with pip)</br>
 -wise2 https://www.ebi.ac.uk/~birney/wise2/</br>
 -tmhmm https://services.healthtech.dtu.dk/software.php</br>
