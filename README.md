@@ -11,7 +11,7 @@ Prerequisites:</br>
 -infernal http://eddylab.org/infernal/</br>
 -arwen http://130.235.244.92/ARWEN/arwen1.2.3.c</br>
 -glimmer3 http://ccb.jhu.edu/software/glimmer/index.shtml (needed icm profile for glimmer is provided)</br>
--critica http://www.life.illinois.edu/gary/programs/CRITICA/critica105b.tar.gz</br>
+-critica http://www.life.illinois.edu/gary/programs/CRITICA/critica105b.tar.gz (need modified perl files for modern BLAST, included)</br>
 -vmatch http://www.vmatch.de/</br>
 -blast+ https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/</br>
 -EMBOSS (getorf) ftp://emboss.open-bio.org/pub/EMBOSS/emboss-latest.tar.gz </br>
