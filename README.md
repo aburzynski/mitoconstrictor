@@ -15,10 +15,10 @@ critica </br>
 vmatch </br>
 blast+ </br>
 Databases:</br>
-database of mitochondrial genomes, blast-formatted as well as individual sub-databases for each major clade (for critica)</br>
+database of mitochondrial genomes, blast-formatted (for mgcode and profile customization) as well as individual sub-databases for each major clade (for critica)</br>
 hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 cm profiles of rRNAs and tRNAs (included, these can be customized with locarna)</br>
-pfam database (non-essential) </br>
+pfam database (part A, hmm file pressed with hmmer, non-essential) </br>
 Produces annotated GenBank file as well as several pdf and text files describing the features of the mitogenome.
 
 Several dependencies run on linux only.
