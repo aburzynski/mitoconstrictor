@@ -15,6 +15,7 @@ Prerequisites:</br>
 -vmatch http://www.vmatch.de/</br>
 -blast+ https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/</br>
 -EMBOSS (getorf) ftp://emboss.open-bio.org/pub/EMBOSS/emboss-latest.tar.gz </br>
+-ViennaRNA package (with python bindings) https://github.com/ViennaRNA/ViennaRNA </br>
 -Databases:</br>
 +database of mitochondrial genomes, blast-formatted, with corresponding lineage specification (for mgcode and profile customization, included, can be customized at will)</br>
 +individual blast-formatted sub-databases of major clades (for critica, examples included)</br>
