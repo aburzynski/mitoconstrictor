@@ -6,7 +6,7 @@ Prerequisites:</br>
 -python (currently version 2.7 is supported)</br>
 -Biopython https://biopython.org/
 (and several other python libraries easily installed with pip)</br>
--wise2 https://www.ebi.ac.uk/~birney/wise2/</br>
+-wise2 https://www.ebi.ac.uk/~birney/wise2/, version 2.2 should be available for most linux distributions but recommended version is 2.4.1</br>
 -tmhmm https://services.healthtech.dtu.dk/software.php</br>
 -infernal http://eddylab.org/infernal/</br>
 -arwen http://130.235.244.92/ARWEN/arwen1.2.3.c</br>
