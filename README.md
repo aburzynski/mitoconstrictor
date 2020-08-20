@@ -22,7 +22,7 @@ Prerequisites:</br>
 +hmmer v2 profiles of mitochondrial proteins (included, these can be customized with hmmer)</br>
 +cm profiles of rRNAs and tRNAs (included, these can be customized with locarna, rRNA files must be indexed with cmpress from infernal package)</br>
 +pfam database (part A, hmm file pressed with hmmer, non-essential, not included) </br>
-Produces annotated GenBank file as well as several pdf and text files describing the features of the mitogenome.</br>
+Produces annotated GenBank file as well as several pdf and text files describing the features of the mitogenome (including tbl file needed for GenBank submission).</br>
 </br>
 Several dependencies run on linux only but Win10 linux subsystem is also adequate. Everything is commandline-only.</br>
 
